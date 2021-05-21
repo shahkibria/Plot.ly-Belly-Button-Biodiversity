@@ -22,10 +22,15 @@ The user can then change the ID number of the subject and review the change in t
 Screenshots of the three charts are also included below:
 
 Bar Chart (Deliverable #1)
+
 ![](https://github.com/shahkibria/Plot.ly-Belly-Button-Biodiversity/blob/main/Screenshots/Bar.png)
+
 Bubble Chart (Deliverable #2)
+
 ![](https://github.com/shahkibria/Plot.ly-Belly-Button-Biodiversity/blob/main/Screenshots/Bubble.png)
+
 Gauge Chart (Deliverable #3)
+
 ![](https://github.com/shahkibria/Plot.ly-Belly-Button-Biodiversity/blob/main/Screenshots/Gauge.png)
 
 # Updates to the Dashboard
