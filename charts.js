@@ -88,7 +88,7 @@ function buildCharts(sample) {
         xaxis: { title: "OTU ID"},
         yaxis: { title: "Sample Value"},
         height: 500,
-        width: 500
+        width: 500,
       };
     //10. Use Plotly to plot the data with the layout. 
     Plotly.newPlot("bar", barData, barLayout,{responsive:true});
